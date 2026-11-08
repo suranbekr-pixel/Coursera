@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic[email]
+passlib[bcrypt]
+python-jose[cryptography]
+python-dotenv
+sqladmin
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+ollama
